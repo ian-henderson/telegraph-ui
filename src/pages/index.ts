@@ -1,0 +1,9 @@
+export { default as ChatPage } from "./ChatPage";
+export { default as LogInPage } from "./LogInPage";
+export { default as MessagePage } from "./MessagePage";
+export { default as PasswordChangePage } from "./PasswordChangePage";
+export { default as PasswordChangeSuccessPage } from "./PasswordChangeSuccessPage";
+export { default as PasswordResetEmailSentPage } from "./PasswordResetEmailSentPage";
+export { default as PasswordResetPage } from "./PasswordResetPage";
+export { default as RegisterPage } from "./RegisterPage";
+export { default as SearchPage } from "./SearchPage";
